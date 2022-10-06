@@ -7,6 +7,7 @@
 }
 
 .container {
+    flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,16 +25,18 @@
 }
 
 .footer {
-    display: flex;
     flex: 1;
+    display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .footer a {
     flex: 1;
     display: flex;
     align-items: center;
-    color: white;
+    color: dimgrey;
+    font-size: 0.8rem;
 }
 
 .title a {
