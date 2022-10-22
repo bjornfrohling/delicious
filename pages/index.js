@@ -26,9 +26,8 @@ export default function Home() {
             />
             <Head>
                 <title>delicious</title>
-                <meta name="delicious"
+                <meta name="delicious.ee"
                       content="The meaning of delicious. A daily minimalistic mantra."
-                      title="delicious"
                       description="A minimalistic mantra. The adjective 'delicious' is used to describe a situation or activity that gives you great pleasure:"
                 />
                 <link rel="icon" href="/favicon.ico"/>
