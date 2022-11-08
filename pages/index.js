@@ -20,7 +20,7 @@ export default function Home() {
                     {
                         property: "keywords",
                         content:
-                            "mantra, minimalism, delicious, meaning of delicious, delightful, delectable, life, delicious, delicieux, dēliciōsus"
+                            "mantra, minimalism, delicious, meaning of delicious, delightful, delectable, life, delicious, delicieux, dēliciōsus, frohling.se"
                     },
                 ]}
             />
