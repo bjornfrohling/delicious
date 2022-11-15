@@ -8,13 +8,13 @@ export default function Home() {
         <>
             <NextSeo
                 title="delicious.ee"
-                description="Welocme to delicious.ee - a minimalistic mantra. Highly pleasant to the taste. Old French delicious, delicieux, from Late Latin dēliciōsus "
+                description="Welocme to delicious.ee - a minimalistic mantra. Old French delicious, delicieux, from Late Latin dēliciōsus "
                 defaultTitle="delicious.ee"
                 openGraph={{
                     url: "https://www.delicious.ee/",
                     title: "delicious.ee",
                     description:
-                        "Welocme to delicious.ee - a minimalistic mantra. Highly pleasant to the taste. Old French delicious, delicieux, from Late Latin dēliciōsus "
+                        "Welocme to delicious.ee - a minimalistic mantra. Old French delicious, delicieux, from Late Latin dēliciōsus "
                 }}
                 additionalMetaTags={[
                     {
