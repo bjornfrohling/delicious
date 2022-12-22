@@ -5,7 +5,7 @@ import styles from '../styles/Home.module.css'
 const TypeWriter = () => {
 
     const [text] = useTypewriter({
-        words: ['delicious', 'delightful', 'delectable', 'Life!'],
+        words: ['delicious', 'delightful', 'delectable'],
         loop: 0
     })
 
