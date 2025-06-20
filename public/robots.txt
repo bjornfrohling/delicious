@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.delicious.ee
+
+# Sitemaps
+Sitemap: https://www.delicious.ee/sitemap.xml
